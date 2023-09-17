@@ -3,7 +3,7 @@ package com.cs407.helloworld;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-//helloworld
+//HelloWorld
 public class MainActivity extends AppCompatActivity {
 
     @Override
